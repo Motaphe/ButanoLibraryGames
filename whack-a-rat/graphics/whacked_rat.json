@@ -1,0 +1,7 @@
+{
+    "type": "sprite",
+    "name": "whacked_rat",
+    "graphics_file": "whacked_rat.bmp",
+    "graphics_dimensions": "32x32",
+    "compression": "lz77"
+}

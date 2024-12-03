@@ -1,0 +1,7 @@
+{
+    "type": "sprite",
+    "name": "paw",
+    "graphics_file": "paw.bmp",
+    "graphics_dimensions": "32x32",
+    "compression": "lz77"
+}

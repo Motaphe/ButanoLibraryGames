@@ -1,0 +1,7 @@
+{
+    "type": "sprite",
+    "name": "empty_hole",
+    "graphics_file": "empty_hole.bmp",
+    "graphics_dimensions": "32x32",
+    "compression": "lz77"
+}
