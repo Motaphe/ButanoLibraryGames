@@ -1,0 +1,17 @@
+build/
+.vscode/
+.vs/
+*.gba
+*.elfbin
+*.elf
+*.sav
+*.creator
+*.user
+*.files
+*.includes
+*.config
+*.cflags
+*.cxxflags
+*.sln
+*.vcxproj
+*.vcxproj.filters
